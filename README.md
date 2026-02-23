@@ -64,6 +64,6 @@ Some values may reflect simulated telemetry for educational purposes.
 
 ## Author
 
-Huldreich M.
+Huldreich M. - 
 Security Operations Center (SOC) Analyst – Entry Level  
 Focused on detection engineering and incident response development.
