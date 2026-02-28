@@ -106,7 +106,7 @@ This report showcases **log correlation, attack chain reconstruction, IOC mappin
 
 ---
 
-## 9. Optional Timeline Diagram
+## 9. Timeline Diagram
 
 ```text
 PAW-TOM (stager execution)
